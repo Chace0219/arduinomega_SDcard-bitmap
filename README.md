@@ -1,4 +1,4 @@
-# arduinomega_SDcard-bitmap
+# Arduin MEGA2560 TF CARD IMAGE PROCESSING
 
 MEGA 2560 SSD1306 much image procesing using TF card
 
